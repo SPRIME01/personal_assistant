@@ -1,4 +1,4 @@
 personal_assistant-
 ===================
 
-attempt tp create a virtual personal assistant with human like intelligence .. just to aid the living..
+attempt to create a virtual personal assistant with human like intelligence .. just to aid the living..
